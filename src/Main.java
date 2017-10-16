@@ -1,3 +1,4 @@
+成績換算
 import java.util.*;
 public class Main {
 
